@@ -1539,3 +1539,6 @@ This application is for **educational purposes only**. Do not deploy to producti
 **Built with 🛡️ by The B Team for INSY7314**
 
 _Last Updated: January 2025_
+
+
+Claude was used to help process SonnarCube and errors we encountered. As well as figuring out what further security could be implemented.
